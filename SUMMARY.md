@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Farming Game 文档](README.md)
+* [🏠 Home](README.md)
 
 ## gameplay
 
