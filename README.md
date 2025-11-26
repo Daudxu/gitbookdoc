@@ -1,8 +1,8 @@
 ---
-description: 在区块链上真正拥有你的农场，每天浇水收获就能赚 $CROP
+description: 在区块链上真正拥有你的农场，每天浇水收获就能赚 CROP
 ---
 
-# 🏠 Home
+# Overview
 
 ## 🌻 FarmingGame
 

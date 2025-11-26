@@ -1,7 +1,6 @@
 # Table of contents
 
-* [🏠 Home](README.md)
+## Get Started
 
-## gameplay
-
-* [游戏玩法总览](gameplay/you-xi-wan-fa-zong-lan.md)
+* [Overview](README.md)
+* [游戏玩法总览](get-started/you-xi-wan-fa-zong-lan.md)
