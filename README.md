@@ -11,6 +11,8 @@ description: 真正拥有你的农场
 
 [立刻开始玩 →](https://yourgame.com/play)
 
+<figure><img src=".gitbook/assets/screenshot-20251126-154214.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### 为什么停不下来？
